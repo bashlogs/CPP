@@ -1,0 +1,619 @@
+   1  sudo -i
+    2  sudo -i
+    3  sudo apt-get install gcc
+    4  cd
+    5  cd Documents
+    6  nano frist_programe.cpp
+    7  gcc frist_programe.cpp -o
+    8  gcc frist_programe.cpp 
+    9  nano frist_programe.cpp
+   10  gcc frist_programe.cpp
+   11  nano frist_programe.cpp
+   12  gcc frist_programe.cpp
+   13  ./ a.out
+   14  ./ a
+   15  ./a
+   16  ./
+   17  gcc frist_programe.cpp -o frist_programe
+   18  ./frist_programe
+   19  cd
+   20  sudo apt-get update && apt-get install git
+   21  cut -d: -f1 /etc/passwd
+   22  sudo userdel -r mayur@mk
+   23  kill -9 process_number
+   24  sudo kill -9 process_number
+   25  sudo kill -4084 process_number
+   26  sudo -i
+   27  exit
+   28  sudo -i
+   29  cd
+   30  cd Documents
+   31  ls
+   32  cd c++
+   33  ls
+   34  nano employe1.cpp
+   35  gcc employe1.cpp -o employe
+   36  nano employe1.cpp
+   37  gcc employe1.cpp -o employe
+   38  nano employe1.cpp
+   39  gcc employe1.cpp -o employe
+   40  nano employe1.cpp
+   41  gcc employe1.cpp -o employe
+   42  nano employe1.cpp
+   43  gcc employe1.cpp -o employe
+   44  nano employe1.cpp
+   45  gcc employe1.cpp -o employe
+   46  sudo -i
+   47  cd
+   48  cd /stirage
+   49  cd /storage
+   50  sudo -i
+   51  whoami
+   52  clr
+   53  clrer
+   54  clear
+   55  python3
+   56  cd
+   57  exit
+   58  cd
+   59  sudo -i
+   60  CD
+   61  cd
+   62  sudo apt-get update && apt-get install git
+   63  sudo -i
+   64  cd
+   65  cd Documents
+   66  ls -a
+   67  ls -lh
+   68  cd c++
+   69  ls -lh
+   70  gcc employe1.cpp -o employe
+   71  gcc employe1.cpp
+   72  ld
+   73  ls
+   74  nano employe1.cpp
+   75  gcc employe1.cpp
+   76  gcc employe.cpp -o employe
+   77  g++ employe.cpp -o employe
+   78  ./employe
+   79  clear
+   80  touch try_employe.cpp
+   81  nano try_employe.cpp
+   82  g++ try_employe.cpp -o try_employe
+   83  nano try_employe.cpp
+   84  g++ try_employe.cpp -o try_employe
+   85  ./ try_employe
+   86  ./try_employe
+   87  43
+   88  nano try_employe.cpp
+   89  g++ try_employe.cpp -o try_employe
+   90  ./try_employe
+   91  nano try_employe.cpp
+   92  g++ try_employe.cpp -o try_employe
+   93  ./try_employe
+   94  g++ friend.cpp -o friend
+   95  gcc friend.cpp -o friend
+   96  g++ friend.cpp -o friend
+   97  sudo apt-get install liberoffice
+   98  sudo -i
+   99  ls
+  100  cd
+  101  sudo -i
+  102  sudo dpkg -i *.deb
+  103  sudo rpkg -i *.rpm
+  104  ls
+  105  pwd
+  106  clear
+  107  cd
+  108  cd /media/mayur/628C-384F/documents
+  109  ls
+  110  cat EDP.pdf
+  111  clear
+  112  ls
+  113  cd 'MP documents
+  114  exit
+  115  exit()
+  116  cd jpg
+  117  ls
+  118  cat Aadhar_card.jpg
+  119  1;2c1;2c1;2c1;2cls
+  120  clear
+  121  ;s
+  122  s;
+  123  sdsldapdla
+  124  cd
+  125  sudo -i
+  126  l
+  127  clear
+  128  cd documents
+  129  ls
+  130  cd Documents
+  131  ;s
+  132  ls
+  133  cd c++
+  134  ld
+  135  ls
+  136  cd
+  137  ls
+  138  sudo -i
+  139  ls
+  140  python3 python_programming.py
+  141  cd
+  142  cd /media/mayur/628C-384F/
+  143  ls -a
+  144  cd
+  145  ls
+  146  g++ friend.cpp -o friend
+  147  ls
+  148  clear
+  149  sudo dpkg -i *.deb
+  150  sudo pakage install bash
+  151  pkg
+  152  sudo apt install -y zsh zsh-syntaxhighlighting
+  153  sudo apt install -y zsh zsh-syntaxhighlighting zsh-autosuggestions
+  154  ipconfig
+  155  icongif
+  156  icongig
+  157  iconfig
+  158  ifconfig
+  159  sudo ifconfig
+  160  sudo -i
+  161  cd
+  162  cd documents
+  163  cd Documents
+  164  ls
+  165  cd c++
+  166  ls
+  167  sudo -i
+  168  cd
+  169  cd Documents/'trial c++'
+  170  ls
+  171  nano constructor.cpp
+  172  cd Documents/'trial c++'
+  173  nano classes.cpp
+  174  touch myobj.cpp
+  175  nano myobj.cpp
+  176  nano constructor.cpp
+  177  cd ..
+  178  cd c++
+  179  ls
+  180  nano friend.cpp
+  181  nano inline1.cpp
+  182  cd Documents/'trial c++'
+  183  nano inline1.cpp
+  184  ls
+  185  nano inline2.cpp
+  186  cd /
+  187  ls
+  188  cd root
+  189  sudo -i
+  190  nano constructor.cpp
+  191  g++ constructor.cpp -o constructor
+  192  cd
+  193  cd Documents/'trial c++'
+  194  g++ constructor.cpp -o constructor
+  195  ./constructor
+  196  g++ constructor.cpp -o constructor
+  197  ./constructor
+  198  nano constructor.cpp
+  199  g++ constructor.cpp -o constructor
+  200  nano constructor.cpp
+  201  touch classes.cpp
+  202  g++ classes.cpp -o classes
+  203  ./classes
+  204  g++ myobj.cpp -o myobj
+  205  ./myobj
+  206  g++ myobj.cpp -o myobj
+  207  ./myobj
+  208  g++ constructor.cpp -o constructor
+  209  ./constructor
+  210  g++ constructor.cpp -o constructor
+  211  ./constructor
+  212  cd..
+  213  cd .
+  214  cd /
+  215  cd
+  216  cd Dcouments/c++
+  217  cd Documents/c++
+  218  ls
+  219  g++ friend.cpp -o friend
+  220  nano friend.cpp
+  221  g++ friend.cpp -o friend
+  222  g++ inline1.cpp -o inline1
+  223  clear
+  224  g++ inline1.cpp -o inline
+  225  ./inline
+  226  g++ inline1.cpp -o inline
+  227  ./inline
+  228  g++ inline1.cpp -o inline
+  229  ./inline
+  230  g++ inline1.cpp -o inline
+  231  ./inline
+  232  g++ inline2.cpp -o inline2
+  233  ./inline2
+  234  ls
+  235  cd
+  236  sudo -i
+  237  cd Documents/'trial c++"
+  238  cd Documents/'trial c++'
+  239  ls
+  240  nano constructor_call.cpp
+  241  nano constructor_call2.cpp
+  242  cd Documents/'trial c++'
+  243  ls
+  244  ./constructor
+  245  ./constructor-call
+  246  ./constructor-call2
+  247  ./constructor_call2
+  248  cd Documents/'trial c++'
+  249  touch friends.cpp 
+  250  nano friends.cpp
+  251  touch constructor_call.cpp
+  252  nano constructor_call.cpp
+  253  touch constructor_call2.cpp
+  254  nano constructor_call2.cpp
+  255  touch destructor.cpp
+  256  nano destructor.cpp
+  257  cd
+  258  cd Documents
+  259  ls
+  260  cd 'trial c++'
+  261  ls
+  262  g++ constructor_call -o constructor-call
+  263  g++ constructor_call.cpp -o constructor-call
+  264  ./constructor-call
+  265  g++ constructor_call.cpp -o constructor-call
+  266  ./constructor-call
+  267  g++ constructor_call2.cpp -o constructor_call2
+  268  ./constructor_call2
+  269  ls
+  270  g++ constructor_call2.cpp -o constructor_call2
+  271  ./constructor_call2
+  272  g++ destructor.cpp -o destructor
+  273  destructor
+  274  ./destructor
+  275  g++ destructor.cpp -o destructor
+  276  g++ destructor.cpp -o destructor
+  277  ./destructor
+  278  g++ destructor.cpp -o destructor
+  279  ./destructor
+  280  g++ destructor.cpp -o destructor
+  281  ./destructor
+  282  g++ destructor.cpp -o destructor
+  283  ./destructor
+  284  cd Documents/c++
+  285  ls
+  286  g++ friend.cpp -o friend
+  287  g++ destructor.cpp -o destructor
+  288  g++ friend.cpp -o friend
+  289  ./friend
+  290  g++ friend.cpp -o friend
+  291  cd Document/'trial c++'/nano constructor.cpp
+  292  cd Document/'trial c++'
+  293  cd Documents/'trial c++'
+  294  ls
+  295  nano friends.cpp
+  296  nano constructor_call.cpp
+  297  nano constructor_call2.cpp
+  298  nano destrutor.cpp
+  299  nano destructor.cpp
+  300  cd Documents/c++
+  301  ls
+  302  nano friend.cpp
+  303  cd Documents/c++
+  304  ls
+  305  g++ friend.cpp -o friend
+  306  ls
+  307  ./friend
+  308  g++ friend.cpp -o friend
+  309  ./friend
+  310  g++ friend.cpp -o friend
+  311  ./friend
+  312  cd
+  313  cd Documents/html
+  314  touch linking_href.html
+  315  cd Documents/'trial c++'
+  316  cd Documents/'trial c++'
+  317  cd Documents
+  318  ls
+  319  cd c++
+  320  nano friends2.cpp
+  321  g++ friends2.cpp -o frends2
+  322  ./frends2
+  323  cd
+  324  cd Documents/'trial c++,
+  325  cd Documents
+  326  ls
+  327  cd c++
+  328  ls
+  329  nano friends2.cpp
+  330  nano friend2.cpp
+  331  nano friends2.cpp
+  332  cd ..
+  333  cd 'trial c++'
+  334  ls
+  335  nano friend2.cpp
+  336  nano friends2.cpp
+  337  ls
+  338  touch friends2.cpp
+  339  nano friends2.cpp
+  340  g++ friends2.cpp -o friends2
+  341  ls
+  342  cd ..
+  343  cd c++
+  344  nano friends2.cpp
+  345  cd ..
+  346  cd 'trial c++'
+  347  ls
+  348  g++ friends2.cpp -o friends2
+  349  ./friends2
+  350  cd
+  351  exit
+  352  cd Documents/c
+  353  g++ liner_sort.c -o liner_sort
+  354  ./liner_sort
+  355  ./liner_sort
+  356  g++ liner_sort.c -o liner_sort
+  357  ./liner_sort
+  358  g++ liner_sort.c -o liner_sort
+  359  ./liner_sort
+  360  g++ liner_sort.c -o liner_sort
+  361  ./liner_sort
+  362  g++ liner_sort.c -o liner_sort
+  363  ./liner_sort
+  364  clear
+  365  g++ binary_sort.c -o binary_sort
+  366  g++ liner_sort.c -o liner_sort
+  367  g++ binary_sort.c -o binary_sort
+  368  ./binary_sort
+  369  g++ binary_sort.c -o binary_sort
+  370  ./binary_sort
+  371  g++ binary_sort.c -o binary_sort
+  372  ./binary_sort
+  373  mkdir c
+  374  cd c
+  375  touch liner_sort.c
+  376  nano liner_sort.c
+  377  nano binary_sort.c
+  378  cd Documents/c
+  379  cd
+  380  cd Documents/c
+  381  ls
+  382  touch bubble_sort.c
+  383  nano bubble_sort.c
+  384  touch insertion_sort.c
+  385  nano insertion_sort.c
+  386  cd documents/c
+  387  cd Documents/c
+  388  ls
+  389  g++ bubble_sort.c -o bubble_sort
+  390  ./bubble_sort
+  391  g++ bubble_sort.c -o bubble_sort
+  392  ./bubble_sort
+  393  g++ bubble_sort.c -o bubble_sort
+  394  ./bubble_sort
+  395  g++ insertion_sort.c -o insertion_sort
+  396  ./insertion_sort
+  397  g++ insertion_sort.c -o insertion_sort
+  398  ./insertion_sort
+  399  sfd
+  400  ./insertion_sort
+  401  ff
+  402  ./insertion_sort
+  403  sudo apt-get install git
+  404  sudo apt install git
+  405  sudo apt-get install git
+  406  sudo apt-get install java
+  407  sudo apt-get install git
+  408  sudo apt-get install Java
+  409  sudo apt-get install java
+  410  sudo apt-get install Java
+  411  java -jar access2csv.jar QBANK_MP_MAR17.accdb
+  412  sudo apt-get install Java
+  413  sudo -i
+  414  cd Documents/'c trial'
+  415  cd Documents
+  416  ls
+  417  cd 'trail c++'
+  418  cd 'trial c++'
+  419  ls
+  420  touch new_op.cpp
+  421  ls
+  422  vim new_op.cpp
+  423  ls
+  424  vim new_op.cpp
+  425  nsno new_op.cpp
+  426  nano new_op.cpp
+  427  zsh --version
+  428  echo $SHELL
+  429  sudo apt install zsh
+  430  zsh --version
+  431  clear
+  432  cd Documents/'trial c++'
+  433  ls
+  434  cd ..
+  435  cd c++
+  436  ls
+  437  nano new_op.cpp
+  438  touch time.cpp
+  439  nano time.cpp
+  440  cd Documents/'trial c++'
+  441  ls
+  442  g++ new_op.cpp -o new_op
+  443  nano new_op.cpp
+  444  g++ new_op.cpp -o new_op
+  445  nano new_op.cpp
+  446  g++ new_op.cpp -o new_op
+  447  ./new_op
+  448  cle
+  449  clear
+  450  cd ..
+  451  cd c++
+  452  g++ new_op.cpp -o new_op
+  453  ./new_op
+  454  g++ time.cpp -o time
+  455  ./time
+  456  g++ time.cpp -o time
+  457  ./time
+  458  g++ time.cpp -o time
+  459  ./time
+  460  g++ time.cpp -o time
+  461  ./time
+  462  g++ time.cpp -o time
+  463  ./time
+  464  g++ time.cpp -o time
+  465  ./time
+  466  g++ time.cpp -o time
+  467  ./time
+  468  g++ time.cpp -o time
+  469  ./time
+  470  g++ time.cpp -o time
+  471  ./time
+  472  awk -F':' '{ print $1}' /etc/passwd
+  473  cd Documnets/c++
+  474  cd Documnets
+  475  cd Documents
+  476  cd c++
+  477  ls
+  478  sudo -i
+  479  cd
+  480  ls
+  481  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  482  cd
+  483  python3
+  484  cd Documents
+  485  ls
+  486  cd python
+  487  ls
+  488  python3 python_programming.py
+  489  clear
+  490  ls
+  491  python3 guessing_game.py
+  492  clear
+  493  python3
+  494  ls
+  495  python3 guessing_game.py
+  496  python3 guessing_game.py
+  497  python3 guessing_game2.py
+  498  12
+  499  python3 guessing_game2.py
+  500  clear
+  501  nano guessing_game.py
+  502  cd
+  503  cd /Documnets/'c trial'
+  504  cd /Documnets/'c++ trial'
+  505  cd Documents
+  506  ls
+  507  /'trial c++'
+  508  cd /'trial c++'
+  509  cd 'trial c++'
+  510  pwd
+  511  cd /
+  512  ls
+  513  sudo -
+  514  sudo -i
+  515  python
+  516  python3
+  517  cd
+  518  cd Documents/python
+  519  python3 guessing_game2.py
+  520  cd Documents/python
+  521  python3 guessing_game2.py
+  522  cd Documents/python
+  523  nano gussing_game.py
+  524  ls
+  525  nano guessing_game.py
+  526  nano guessing_game2.py
+  527  cd Documents/python
+  528  clear
+  529  cd
+  530  nano cd /Documents/python/guessing_game.py
+  531  cd Documents/python
+  532  ls
+  533  python3 guessing_game2.py
+  534  clear
+  535  sudo apt-get sql
+  536  sqlmap -h
+  537  sqlmap -hh
+  538  clear
+  539  sudo -i
+  540  sql
+  541  start sql
+  542  sqlmap --help
+  543  sqlmap -hh
+  544  sqlmap --version
+  545  sqlmap -v VERBOSE
+  546  cd /tmp
+  547  cd
+  548  sudo -i
+  549  sudo apt-get install build-essential geany
+  550  cd Documents/python
+  551  ls
+  552  clear
+  553  python3
+  554  cd Documents/python
+  555  python3 hello.py
+  556  python3
+  557  clear
+  558  python3 hello.py
+  559  clear
+  560  python3 hello.py
+  561  cd Documents/python
+  562  hello.py
+  563  python3 hello.py
+  564  python3
+  565  cd
+  566  cd Documents/python
+  567  ls
+  568  cd ..
+  569  ls
+  570  cd python
+  571  ls
+  572  clear
+  573  python3 hello.py
+  574  python3 
+  575  python3
+  576  pwd
+  577  python3 hello.py
+  578  clear
+  579  python3 hello.py
+  580  ls
+  581  clear
+  582  python3 hello.py
+  583  print(x)
+  584  python3 hello.py
+  585  clear
+  586  python3 hello.py
+  587  clear
+  588  python3 hello.py
+  589  history
+  590  clear
+  591  history
+  592  python3 hello.py
+  593  clear
+  594  python3 hello.py
+  595  clear
+  596  python3 hello.py
+  597  clear
+  598  ls
+  599  clear
+  600  python3 hello.py
+  601  cd Documents/python
+  602  ls
+  603  python3 hello.py
+  604  clear
+  605  python3 hello.py
+  606  history
+  607  /var
+  608  cd
+  609  /var
+  610  cd /var
+  611  ls
+  612  aaa
+  613  clear
+  614  cd
+  615  cd Documents/python
+  616  ls
+  617  python3
+  618  history
+
