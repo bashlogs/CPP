@@ -1,4 +1,4 @@
-Link List
+# Link List - vector.cpp
 
 Vectors are the same as dynamic arrays with the ability to resize itself automatically when an element is inserted or deleted, with their storage being handled automatically by the container.<br />
 Inserting at the end takes differential time, as sometimes the array may need to be extended. <br />
@@ -47,4 +47,40 @@ swap() – It is used to swap the contents of one vector with another vector of 
 clear() – It is used to remove all the elements of the vector container<br />
 emplace() – It extends the container by inserting new element at position<br />
 emplace_back() – It is used to insert a new element into the vector container, the new element is added to the end of the vector<br />
+
+# Link List - Types
+
+## Singly Link List - singly_link.cpp
+
+class Node{
+    public:
+        int data;
+        Node* next; // To store the address OR Pointer to the next node
+};
+
+1st Method:
+    t = head;
+    head->data = 1;
+    t->next = second;
+    t=t->next;
+    second->data = 2;
+    t->next = third;
+    t=t->next;
+    third->data = 3;
+    t->next = NULL;
+
+2nd Method:
+    head->data = 1;
+    head->next = second;
+    second->data = 2;
+    second->next = third;
+    third->data = 3;
+    third->next = NULL;
+
+
+## Doubly Linked List
+
+## Circular Linked List
+
+## Doubly Circular Linked List
 
