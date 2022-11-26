@@ -14,9 +14,14 @@ class Node{
         int data;
         Node* next; // To store the address
     
-    Node(){
-        int data;
-        Node* next;
+    ~Node(){
+      int value = this->data;
+      // Memory Free
+      if(this->next != NULL){
+        delete next;
+        this->next = NULL; 
+      }
+      cout << "Memory is free for node with data: " << value << endl;
     }
 };
 
@@ -77,16 +82,33 @@ void InsertAtMiddle(Node* &head, int position, int Data){
 }
 
 void deleteitem(Node* &head, int position){
-    Node* temp = head;
     // Deleting item
     if(position == 1){
-        temp = temp->next;
-        delete temp;
+    	// Assign the head to the next node
+        Node* temp = head;
+        head = head->next;
+        temp->next = NULL;
+        delete temp; // To Free the memory
     }
     else{
+    	// There are two nodes
         Node* curr = new Node();
+        Node* prev = new Node();
 
+        int a = 1;
+        curr = head;
+        prev = NULL;
+        while(a < position){
+          prev = curr;
+          curr = curr->next;
+          a++;
+        }
+
+        prev->next = curr->next;
+        curr->next = NULL;
+        delete curr; // To free the memory
     }
+
 }
 int main(){
     Node* head = new Node();
@@ -102,6 +124,7 @@ int main(){
     t=t->next;
     third->data = 3;
     t->next = NULL;
+    // Second method
     // second->data = 2;
     // second->next = third;
     // third->data = 3;
@@ -114,10 +137,11 @@ int main(){
     InsertAtTail(third, 20);
     printlist(head);
 
-    // InsertAtMiddle(head, 6, 68);
-    // printlist(head);
+    InsertAtMiddle(head, 6, 68);
+    printlist(head);
 
-    // deleteitem(head,1);
+    deleteitem(head,6);
+    printlist(head);
     return 0;   
 }
 
