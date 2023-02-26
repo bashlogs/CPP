@@ -78,6 +78,8 @@ class Node{<br />
 &nbsp;&nbsp;&nbsp;&nbsp;    third->next = NULL;<br />
 <br />
 <br />
+
+
 ## Doubly Linked List
 
 ## Circular Linked List
